@@ -1,0 +1,29 @@
+{
+  "name": "quantum-talk-helpers",
+  "version": "1.0.0",
+  "description": "Quantum Helpers is a Node.js module providing a collection of quantum computing utility functions for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camitsago/quantum-talk-helpers"
+  },
+  "dependencies": {
+    "qiskit": "^0.21.0",
+    "bite-text-crypto": "1.0.0",
+    "soulful-tools-stop": "1.0.0",
+    "kamidpavil-password-utils": "1.1.4",
+    "stellar-flow-utils": "1.0.0",
+    "astral-guide-live": "1.0.0",
+    "tedscreaming-text-crypto": "1.1.4",
+    "image-utils-pose": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camitsago/quantum-talk-helpers/issues"
+  },
+  "homepage": "https://github.com/camitsago/quantum-talk-helpers#readme"
+}
